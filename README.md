@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Fury**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Android devolopment**
+- 💬 Ask me about **Mobile apps devolopment**
 
 - 📫 How to reach me **sarathputhenvila@gmail.com**
 
