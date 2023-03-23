@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarath Sivakumar</h1>
+<h1 align="center">Sarath Sivakumar</h1>
 <h3 align="center">A passionate flutter developer and product designer</h3>
 
 - 🔭 I’m currently working on **Fury**
