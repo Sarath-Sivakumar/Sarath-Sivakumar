@@ -18,6 +18,6 @@
 
 <!-- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarath-sivakumar&show_icons=true&locale=en&theme=tokyo-night" alt="sarath-sivakumar" /> -->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-sivakumar&theme=tokyo-night" alt="sarath-sivakumar" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-sivakumar&theme=dracula" alt="sarath-sivakumar" />
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarath-sivakumar&theme=dracula)
