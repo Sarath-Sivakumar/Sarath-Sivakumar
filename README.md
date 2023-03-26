@@ -1,11 +1,11 @@
 <h1 align="center">Sarath Sivakumar</h1>
 <h3 align="center">flutter developer and product designer</h3>
-
-- 🔭 currently working on **Fury**
+<p align="left">
+- 🔭 Currently working on **Fury**
 
 - 💬 Ask me about **Mobile apps devolopment**
 
-- 📫 How to reach me **sarathputhenvila@gmail.com**
+- 📫 Reach me **sarathputhenvila@gmail.com** </p>
 
 <h3 align="left">Published Apps:</h3>
 <p align="left"> <a href="https://play.google.com/store/apps/details?id=app.personal.fury" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/bo1jkRjCKOSrxH-PQStxQNR3UVLnmipMuNNZwFlB3CqVzTqRXCIgsDuyb5W9xvySHVQ=w240-h480-rw" alt="android" width="40" height="40"/> </a> </p>
