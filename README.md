@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarath-sivakumar&show_icons=true&locale=en" alt="sarath-sivakumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-sivakumar&" alt="sarath-sivakumar" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarath-sivakumar)]
