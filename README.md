@@ -18,4 +18,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-sivakumar&" alt="sarath-sivakumar" />
 
-[Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarath-sivakumar&theme=dracula)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarath-sivakumar&theme=dracula)]
