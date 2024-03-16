@@ -1,7 +1,7 @@
 <h1 align="center">Sarath Sivakumar</h1>
 <h3 align="center">Flutter developer and product designer</h3>
  
-- 🔭 Currently working on **Fury** 
+- 🔭 Published **Fury** 
 
 - 💬 Ask me about **Mobile apps devolopment**
 
