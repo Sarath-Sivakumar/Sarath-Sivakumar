@@ -1,25 +1,49 @@
-<h1 align="center">Sarath Sivakumar</h1>
-<h3 align="center">Flutter developer and product designer</h3>
- 
-- 🔭 Published **Fury** 
+<h1 align="center">Sarath Sivakumar</h1> <h3 align="center">Java Backend & Full Stack Developer</h3> <p align="center"> <strong>Spring Boot</strong> • <strong>Microservices</strong> • <strong>REST APIs</strong> • <strong>CI/CD</strong> </p> <p align="center"> <strong>Chennai, India</strong> | <a href="mailto:sarathputhenvila@gmail.com"><strong>sarathputhenvila@gmail.com</strong></a> | <a href="https://www.linkedin.com/in/sarath-sivakumar-87a915302"><strong>LinkedIn</strong></a> </p>
 
-- 💬 Ask me about **Mobile apps devolopment**
+<b>🚀 What I Do </b> 
 
-- 📫 Reach me **sarathputhenvila@gmail.com** 
 
-<h3 align="left">Published Apps:</h3>
-<p align="left"> <a href="https://play.google.com/store/apps/details?id=app.personal.fury" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/bo1jkRjCKOSrxH-PQStxQNR3UVLnmipMuNNZwFlB3CqVzTqRXCIgsDuyb5W9xvySHVQ=w240-h480-rw" alt="android" width="40" height="40"/> </a> </p>
+Build scalable backend systems using Java and Spring Boot
 
-<h3 align="left">Languages :</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Design and implement REST APIs and microservices
 
-<h3 align="left">Tools mastered:</h3>
-<p align = "left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/6lZ6kRoMqJYHlWmTDcq8cii1qFTqWIuIoxIDxG12GK4/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly8zLmJw/LmJsb2dzcG90LmNv/bS8tUkgwTzd3WVFY/VWMvVm96U2F5R0ZQ/bEkvQUFBQUFBQUFM/amMvbmhnOGJRX1BR/UjgvczE2MDAvQW5k/cm9pZF9TdHVkaW9f/aWNvbi5zdmcucG5n" alt="androidstudio" width="40" height="40"/> </a></p>
+Improve performance, reliability, and maintainability of production systems
 
-<!-- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarath-sivakumar&show_icons=true&locale=en&theme=tokyo-night" alt="sarath-sivakumar" /> -->
+Work across SDLC, CI/CD pipelines, and production support
 
-<br>
+Mentor engineers and trainees in Java and Spring Boot
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-sivakumar&theme=dracula" alt="sarath-sivakumar" />
+<b>💼 Experience Snapshot</b>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarath-sivakumar&theme=dracula)
+2+ years in enterprise application development
+
+Built and supported systems with 10,000+ monthly active users
+
+Mentored 2000+ trainees, reducing repeated technical queries by 25–30%
+
+Hands-on experience in legacy system modernization and backend optimization
+
+<b>📱 Published Application</b>
+
+Fury – Personal Finance Assistant
+
+Spring Boot backend with JWT-based security
+
+Supports 1000+ active users
+
+Features expense analysis and savings insights
+
+Flutter-based mobile frontend
+
+
+
+<b>🛠️ Core Technology Stack</b> 
+
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> </p>
+
+
+<b>📫 Contact</b>
+
+Email: sarathputhenvila@gmail.com
+
+LinkedIn: Sarath Sivakumar
