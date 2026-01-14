@@ -1,49 +1,54 @@
-<h1 align="center">Sarath Sivakumar</h1> <h3 align="center">Java Backend & Full Stack Developer</h3> <p align="center"> <strong>Spring Boot</strong> • <strong>Microservices</strong> • <strong>REST APIs</strong> • <strong>CI/CD</strong> </p> <p align="center"> <strong>Chennai, India</strong> | <a href="mailto:sarathputhenvila@gmail.com"><strong>sarathputhenvila@gmail.com</strong></a> | <a href="https://www.linkedin.com/in/sarath-sivakumar-87a915302"><strong>LinkedIn</strong></a> </p>
+<div align="center">
+  <h1><img src="https://media.giphy.com/media/hvRJCLz79C7LMDcmoH/giphy.gif" width="35"> Hi, I'm Sarath Sivakumar</h1>
+  <h3>Java Backend & Full Stack Developer</h3>
+  <p>🚀 Building scalable enterprise solutions with Java & Spring Boot</p>
 
-<b>🚀 What I Do </b> 
+  <p>
+    <a href="https://www.linkedin.com/in/sarath-sivakumar-87a915302"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:sarathputhenvila@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Location-Chennai,%20India-E94134?style=for-the-badge&logo=google-maps&logoColor=white" />
+  </p>
+</div>
 
+---
 
-Build scalable backend systems using Java and Spring Boot
+### 🚀 Professional Summary
+I am a **Java Backend and Full Stack Developer** with over two years of experience delivering enterprise-grade applications. I specialize in **Microservices architecture**, **CI/CD automation**, and performance tuning, with a track record of scaling systems to serve over 10,000 monthly active users.
 
-Design and implement REST APIs and microservices
+### 🛠️ Tech Stack & Tools
 
-Improve performance, reliability, and maintainability of production systems
+| Category | Icons | Technologies |
+| :--- | :--- | :--- |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,redis" /> | Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Redis |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js" /> | React.js, Bootstrap, HTML5, CSS3, JavaScript |
+| **Mobile & More** | <img src="https://skillicons.dev/icons?i=flutter,dart,python" /> | Flutter (Dart), Python |
+| **DevOps & Testing** | <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,githubactions" /> | Docker, Jenkins, Git, CI/CD, JUnit, SonarQube |
 
-Work across SDLC, CI/CD pipelines, and production support
+### 💼 Experience Highlights
+- **System Engineer @ Tata Consultancy Services (TCS):**
+  - Accelerated backend response times by **20–25%** through service optimization.
+  - Cut manual deployment effort by **40%** by streamlining **Jenkins & Docker** pipelines.
+  - Resolved critical production issues, significantly reducing post-release incidents.
+- **Academic & Mentorship:** - Managed data for **2,000+ users** on the SASTRA TCS Ignite Integration Platform.
+  - Improved computation speed by **35%** on complex performance analyzer modules.
 
-Mentor engineers and trainees in Java and Spring Boot
+### 📱 Featured Project: Fury Finance Assistant
+*Personal Finance Automation Platform*
+- **Architecture:** Secure **Spring Boot** backend with **JWT** authentication and encrypted storage.
+- **Insights:** Built algorithms for spending pattern analysis and savings predictions.
+- **Mobile:** Real-time data synchronization with a **Flutter** frontend.
 
-<b>💼 Experience Snapshot</b>
+---
 
-2+ years in enterprise application development
+### 📊 My GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Sarath's GitHub Stats" />
+</p>
 
-Built and supported systems with 10,000+ monthly active users
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-Mentored 2000+ trainees, reducing repeated technical queries by 25–30%
-
-Hands-on experience in legacy system modernization and backend optimization
-
-<b>📱 Published Application</b>
-
-Fury – Personal Finance Assistant
-
-Spring Boot backend with JWT-based security
-
-Supports 1000+ active users
-
-Features expense analysis and savings insights
-
-Flutter-based mobile frontend
-
-
-
-<b>🛠️ Core Technology Stack</b> 
-
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> </p>
-
-
-<b>📫 Contact</b>
-
-Email: sarathputhenvila@gmail.com
-
-LinkedIn: Sarath Sivakumar
+### 📫 Let's Connect!
+- 📧 **Email:** [sarathputhenvila@gmail.com](mailto:sarathputhenvila@gmail.com)
+- 🔗 **LinkedIn:** [Sarath Sivakumar](https://www.linkedin.com/in/sarath-sivakumar-87a915302)
