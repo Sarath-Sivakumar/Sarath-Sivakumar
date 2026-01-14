@@ -29,7 +29,7 @@ I am a **Java Backend and Full Stack Developer** with over two years of experien
   - Accelerated backend response times by **20–25%** through service optimization.
   - Cut manual deployment effort by **40%** by streamlining **Jenkins & Docker** pipelines.
   - Resolved critical production issues, significantly reducing post-release incidents.
-- **Academic & Mentorship:** - Managed data for **2,000+ users** on the SASTRA TCS Ignite Integration Platform.
+- **Academic & Mentorship:** - Mentored over 2000+ employees while working as a System Engineer in TCS.
   - Improved computation speed by **35%** on complex performance analyzer modules.
 
 ### 📱 Featured Project: Fury Finance Assistant
@@ -48,7 +48,3 @@ I am a **Java Backend and Full Stack Developer** with over two years of experien
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
-### 📫 Let's Connect!
-- 📧 **Email:** [sarathputhenvila@gmail.com](mailto:sarathputhenvila@gmail.com)
-- 🔗 **LinkedIn:** [Sarath Sivakumar](https://www.linkedin.com/in/sarath-sivakumar-87a915302)
