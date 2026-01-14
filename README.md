@@ -39,16 +39,3 @@ I am a **Java Backend and Full Stack Developer** with over two years of experien
 - **Mobile:** Real-time data synchronization with a **Flutter** frontend.
 
 ---
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarath-Sivakumar&show_icons=true&theme=dark&hide_border=true" alt="Sarath's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarath-Sivakumar&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarath-Sivakumar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
